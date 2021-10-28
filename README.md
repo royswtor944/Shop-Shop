@@ -84,8 +84,8 @@ https://shop-shop-reboot.herokuapp.com/
  
 ## Credits
 
-Manny Alfaro
+Roy Moore
 
 UCF-VIRT-BO-FSF-PT-04-2021-U-B-TTH
 
-### If you have any questions, please contact me: mannyalfa@gmail.com
+### If you have any questions, please contact me: roymoore95@gmail.com
