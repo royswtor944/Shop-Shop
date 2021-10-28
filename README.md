@@ -77,7 +77,7 @@ MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https
 
 ## Repository URL
 
-https://github.com/Mannyalfa/shop-shop-reboot
+https://github.com/royswtor944/Shop-Shop
 
 ## Deployed-URL
 https://shop-shop-reboot.herokuapp.com/
